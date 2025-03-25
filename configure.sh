@@ -15,7 +15,7 @@ fi
 #############################
 # CONFIGURATION VARIABLES   #
 #############################
-REPO_URL="git@bitbucket.org:lev_lev/entertainers.git"  # Use SSH URL for Bitbucket
+REPO_URL="git@bitbucket.org:git/git.git"  # Use SSH URL for Bitbucket
 BRANCH="production"                                    # Branch to deploy from
 PM2_INSTANCES=1                                        # Number of PM2 instances (1 or 2)
 APP_USER="apos"                                        # Application user for running the CMS
